@@ -1,0 +1,3 @@
+D:\_Projects\Udemy_Tutorials\TankBattle\BattleTank\Source\BattleTank\BattleTank.Build.cs
+D:\_Projects\Udemy_Tutorials\TankBattle\BattleTank\Source\BattleTank.Target.cs
+D:\_Projects\Udemy_Tutorials\TankBattle\BattleTank\Source\BattleTankEditor.Target.cs
